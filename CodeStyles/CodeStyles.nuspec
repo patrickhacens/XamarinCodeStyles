@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Patrickhacens.CodeStyles</id>
+    <version>1.0.0.0</version>
+    <title>CodeStyles</title>
+    <authors>Patrick Ens</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/patrickhacens/XamarinCodeStyles/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/patrickhacens/XamarinCodeStyles</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .net lib to help you make styles in xamarin without all the hassle to use xaml</description>
+    <releaseNotes>Initial project</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xamarin Style</tags>
+  </metadata>
+</package>
