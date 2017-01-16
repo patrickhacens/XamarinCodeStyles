@@ -1,7 +1,14 @@
 # XamarinCodeStyles
+
 A .net lib to help you make styles in xamarin without all the hassle to use xaml
 
-##How to use
+## Installation
+
+> Install-Package Patrickhacens.CodeStyles
+
+or download from [nuget](https://www.nuget.org/packages/Patrickhacens.CodeStyles/)
+
+## Usage
 In your App's construtor you just need to call `this.SetCodeStyles`
 ```
 using CodeStyles;
